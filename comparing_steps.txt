@@ -1,0 +1,11 @@
+1.copy paste the data in the same excel sheet in sheet1.
+2.go to view-->new window
+3.go to view-->rearrange all-->vertical.
+3.5->select all in sheet.
+4.go to home-->conditional formatting
+5.Then select highlight cell rules-->More Rules
+6.option "use formula to select which cells to format." 
+7.click formula space..
+8.select the cells you want to compare first in sheet<>then in sheet1.
+9.formula like this-->=A1:I71<>Sheet1!A1:I71
+10.FORMAT-->FILL-->COLOR OK.
